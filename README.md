@@ -1,6 +1,6 @@
 # agent-hud
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-a78bfa?style=flat-square)](https://aetherx86.github.io/agent-hud/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-a78bfa?style=flat-square)](https://omakasekim.github.io/agent-hud/)
 [![Plugin: SKILL.md + CLI](https://img.shields.io/badge/Plugin-SKILL.md%20%2B%20CLI-10b981?style=flat-square)](plugin/SKILL.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8?style=flat-square)](LICENSE)
 
